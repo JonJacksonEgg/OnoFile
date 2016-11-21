@@ -1,3 +1,4 @@
 Add -Movies
 If lots of files to transfer, update the ui-less with % 
 if the number is odly large.. ask if its actually the latest episode in the folder
+Add an option to add current year to newly added files
